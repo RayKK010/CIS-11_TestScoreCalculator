@@ -1,6 +1,6 @@
 ;====================================================================
 ; Program: Test Score Calculator
-; Author: Diego Cordova
+; Author: Raybert Salazar
 ; Course: CIS 11
 ; Description:
 ; This LC-3 program prompts the user to input 5 test scores (3-digit format).
